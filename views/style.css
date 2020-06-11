@@ -67,3 +67,9 @@ body {
   p {
     color: #E64A19;
   }
+  .contain {
+    height: 350px;
+    width: 800px;
+    margin-bottom: 100px;
+    background-color: #E64A19;
+  }
